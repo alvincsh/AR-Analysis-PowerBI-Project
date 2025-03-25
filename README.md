@@ -1,8 +1,8 @@
-# AR-Analysis-PowerBI-Project
+# <ins>Accounts Receivable Analysis (PowerBI Project)</ins>
 
 ## Table of Contents
 - [Project Download Link](#project-download-link)
-- [Project Dashboard Image](#project-screenshots-image)
+- [Project Dashboard Image](#project-dashboard-image)
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Tools](#tools)
