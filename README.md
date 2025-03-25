@@ -15,10 +15,11 @@
 
 ---
 ### Project Download Link
-- [Click Here to Download](#)
+- [Click Here to Download](https://github.com/alvincsh/AR-Analysis-PowerBI-Project/blob/main/Project%20and%20Screenshots/AR%20Independent%20Project%20from%20ChatGPT.pbix)
 ---
 
 ### <ins>Project Dashboard Image</ins>
+![AR Independent Project from ChatGPT Dashboard1](https://github.com/user-attachments/assets/c8c57c34-f97f-46a8-8efe-eb59ac783db5)
 
 
 
@@ -33,7 +34,7 @@ The aim of this project is to analyze the Accounts Receivables of GHI Sdn Bhd to
 In this project, 1 CSV file of fictitious data was obtained from ChatGPT:
 
 - accounts_receivable_data_final_adjusted.csv
-- [Click Here to Download the CSV file](#)
+- [Click Here to Download the CSV file](https://github.com/alvincsh/AR-Analysis-PowerBI-Project/blob/main/Source%20File%20from%20ChatGPT/accounts_receivable_data_final_adjusted.csv)
 
 
 ### Tools
